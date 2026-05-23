@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Intelligent_Log_Priority_Classification
+Version: 1.0.0
+Author: Vikrant
+Author-email: patilvikrant275@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: fastapi
+Requires-Dist: flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

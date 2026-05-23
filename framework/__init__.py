@@ -1,0 +1,1 @@
+CONFIG_FILES_PATH = 'D:\\intelligent_log_priority_classification\\config'

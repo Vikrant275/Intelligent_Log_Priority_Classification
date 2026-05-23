@@ -1,0 +1,6 @@
+setup.py
+Intelligent_Log_Priority_Classification.egg-info/PKG-INFO
+Intelligent_Log_Priority_Classification.egg-info/SOURCES.txt
+Intelligent_Log_Priority_Classification.egg-info/dependency_links.txt
+Intelligent_Log_Priority_Classification.egg-info/requires.txt
+Intelligent_Log_Priority_Classification.egg-info/top_level.txt
